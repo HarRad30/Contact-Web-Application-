@@ -9,7 +9,7 @@ This is HarishKumar.
 Project Title: 
 Simple Contact Web Application 
 
-Used Techlonogies: 
+Used Technologies: 
 Spring Boot, Core Java, HTML, CSS
 
 Description:
